@@ -7,7 +7,7 @@ const messages = [
     "Şu an yanımda olmanı çok isterdim,\nAma değilsin.\nSen oradasın; ve orası,\nNe kadar şanslı olduğunu bilmiyor.",
     "Seni özlemek zor değil,\nZor olan, sensiz geçen zaman.\nAma şunu bil ki,\nHer saniye beni sana daha fazla bağlıyor.",
     "Baktığımız gökyüzü aynı,\nAynı Ay, aynı Güneş, aynı yıldızlar.\nAma sen başka yerde bense bambaşka.\nBen burda gökyüzüne bakarak seni düşünürken,\nSenin bulunduğun yer biraz daha güzelleşiyor.",
-    "Bazen kapatıyorum gözlerimi,\nVe hayal ediyorum yanımda seni,\nSanki o an zaman yavaşlıyor gibi geliyor.\nVe o an, ben biraz daha sakinleşiyorum.",
+    "Bazen kapatıyorum gözlerimi,\nVe hayal ediyorum yanımda seni,\nSanki o an zaman yavaşlıyor gibi geliyor.\nVe ben bir kez daha seni ne kadar sevdiğimi hatırlıyorum.",
     "Belki uzaktayız,\nBelki farklı şehirlerdeyiz,\nAma kalplerimizin hep beraber olduğunu hissediyorum.\nVe bu his beni sana her seferinde biraz daha aşık ediyor.",
     "Gün içinde rastgele bir an,\nGeliyorsun aniden aklıma.\nVe o an,\nKalbim bana seni ne kadar sevdiğimi tekrar hatırlatıyor.",
     "Seni düşündüğümde, gölgeymişsin gibi hissediyorum.\nHep yanımdasın ama dokunamıyorum.\nAma bil ki, bu gölge,\nGördüğüm en parlak gölge.",
